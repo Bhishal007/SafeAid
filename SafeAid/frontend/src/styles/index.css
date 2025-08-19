@@ -1,0 +1,71 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(135deg, #f4f6fb 0%, #ffe3ec 100%);
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+/* Vibrant gradient header */
+header {
+  background: linear-gradient(90deg, #ff6a00 0%, #ee0979 50%, #2575fc 100%);
+  color: #fff;
+  padding: 24px 0;
+  text-align: center;
+  box-shadow: 0 2px 12px rgba(238, 9, 121, 0.12);
+}
+
+/* Colorful card style for sections */
+.section-card {
+  background: linear-gradient(120deg, #fff 60%, #ffe3ec 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(255, 106, 0, 0.10);
+  padding: 36px;
+  margin: 36px auto;
+  max-width: 800px;
+  border: 2px solid #ee0979;
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(90deg, #ff6a00 0%, #ee0979 100%);
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  padding: 12px 28px;
+  font-weight: 700;
+  box-shadow: 0 2px 12px rgba(255, 106, 0, 0.16);
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(90deg, #ee0979 0%, #2575fc 100%);
+  box-shadow: 0 6px 20px rgba(238, 9, 121, 0.22);
+}
+
+.btn-success {
+  background: linear-gradient(90deg, #43e97b 0%, #f9d423 100%);
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  padding: 12px 28px;
+  font-weight: 700;
+  box-shadow: 0 2px 12px rgba(67, 233, 123, 0.16);
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.btn-success:hover {
+  background: linear-gradient(90deg, #f9d423 0%, #43e97b 100%);
+  box-shadow: 0 6px 20px rgba(249, 212, 35, 0.22);
+}
+
+/* Colorful accent for links */
+a {
+  color: #ee0979;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #ff6a00;
+  text-decoration: underline;
+}
