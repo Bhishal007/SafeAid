@@ -73,11 +73,11 @@ Push to the branch (git push origin feature-branch).
 Open a pull request.
 
 License
-This project is open-source under the MIT License (see LICENSE file or add one).
+This project is open-source under the MIT License 
 Contact
 
-For questions or contributions, contact your.email@example.com.
-GitHub: github.com/yourusername
+For questions or contributions, contact bhishal.com.
+GitHub: github.com/Bhishal007
 
 Acknowledgements
 
